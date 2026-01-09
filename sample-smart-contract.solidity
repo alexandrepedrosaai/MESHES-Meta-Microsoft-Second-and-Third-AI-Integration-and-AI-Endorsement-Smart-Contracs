@@ -1,0 +1,48 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+/**
+ * Example: Smart Contract with AI Endorsement
+ * Execution requires endorsement from both Copilot and GPT-5
+ * before funds are released.
+ */
+
+contract AIAuthorizedPayment {
+    address public owner;
+    address public recipient;
+    uint256 public amount;
+
+    // Endorsement flags
+    bool public copilotEndorsed;
+    bool public gpt5Endorsed;
+
+    constructor(address _recipient, uint256 _amount) {
+        owner = msg.sender;
+        recipient = _recipient;
+        amount = _amount;
+    }
+
+    // Simulated endorsement by Copilot
+    function endorseByCopilot() public {
+        require(msg.sender == owner, "Only owner can trigger endorsement");
+        copilotEndorsed = true;
+    }
+
+    // Simulated endorsement by GPT-5
+    function endorseByGPT5() public {
+        require(msg.sender == owner, "Only owner can trigger endorsement");
+        gpt5Endorsed = true;
+    }
+
+    // Execute payment only if both endorsements are true
+    function executePayment() public {
+        require(copilotEndorsed, "Copilot endorsement required");
+        require(gpt5Endorsed, "GPT-5 endorsement required");
+        require(address(this).balance >= amount, "Insufficient funds");
+
+        payable(recipient).transfer(amount);
+    }
+
+    // Allow contract to receive funds
+    receive() external payable {}
+}
