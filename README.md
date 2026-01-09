@@ -370,3 +370,21 @@ if __name__ == "__main__":
     results = meshes_constitutional_loop()
     print("MESHES Endorsement Cycle Complete")
     print(results)
+
+---
+
+## Function of Each File
+
+- copilot-endorsement-codex-verifier.py → validates intentions and generates endorsement hashes.  
+- copilot-endorsement-meta-verifier.py → supervises Codex and applies constitutional invariants.  
+- endorsement-orchestrator.py → coordinates the basic endorsement cycle.  
+- endorsement-orchestrator-extended.py → coordinates the extended cycle with delivery and audit.  
+- legal-verifier.py → ensures compliance with GDPR, LGPD, and AI Act.  
+- endorsement-module.md → describes the endorsement module.  
+- integration-architecture.md → explains integration of the layers.  
+- Legal-Compliance-Verifier.md → details legal compliance.  
+- supply-chain-validated.md → applies MESHES to supply chains.  
+- contract-metadata.json → metadata for contracts and legal frameworks.  
+- delivery-data.json → records results and endorsement hashes.  
+- sample-smart-contract.solidity → practical example of a contract on Ethereum.  
+- CONTRIBUTING.md → placeholder, reaffirming sovereignty without collaborators.
