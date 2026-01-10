@@ -388,3 +388,398 @@ if __name__ == "__main__":
 - delivery-data.json → records results and endorsement hashes.  
 - sample-smart-contract.solidity → practical example of a contract on Ethereum.  
 - CONTRIBUTING.md → placeholder, reaffirming sovereignty without collaborators.
+```
+## 🔁 Text‑Based Diagram of the Constitutional Loop
+
+
+ ┌───────────────────┐
+ │   Execution Layer │
+ │ (Smart Contract)  │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │  Codex Verifier   │
+ │ (Intent & Logic)  │
+ └─────────┬───────
+           │
+           ▼
+ ┌─────────────────
+ │   Meta Verifier   │
+ │ (Constitutional   │
+ │   Invariants)     │
+ └─────────┬──────
+           │
+           ▼
+ ┌─────────────────
+ │  Legal Verifier   │
+ │ (GDPR, LGPD, AI   │
+ │       Act)        │
+ └─────────┬───────
+           │
+           ▼
+ ┌─────────────────
+ │ Delivery & Audit  │
+ │ (Hashes, Reports, │
+ │ Transparency)     │
+ └────────────────
+
+---
+
+Use Case Example: Digital Voting Governance
+
+Scenario: National e‑vote system.  
+- Execution: Smart contracts record votes.  
+- Codex: Validates ballot rules.  
+- Meta: Ensures fairness and equality.  
+- Legal: Confirms electoral law and data protection.  
+- Delivery: Transparent audit trail for citizens and auditors.  
+
+---
+
+💰 Use Case Example: Financial Systems & Automated Compliance
+
+Scenario: Banking or crypto transactions.  
+- Execution: Smart contracts handle payments and loans.  
+- Codex: Validates financial logic (no double spending).  
+- Meta: Ensures fairness and anti‑fraud invariants.  
+- Legal: Confirms AML/KYC, Basel III, GDPR/LGPD compliance.  
+- Delivery: Transparent audit trail for regulators.  
+
+---
+
+## 🌐 Unified Diagram of MESHES Use Cases
+
+`
+                 ┌───────────────────┐
+                 │   Execution Layer │
+                 │ (Smart Contracts) │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │  Codex Verifier   │
+                 │ (Intent & Logic)  │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │   Meta Verifier   │
+                 │ (Constitutional   │
+                 │   Invariants)     │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │  Legal Verifier   │
+                 │ (GDPR, LGPD, AI   │
+                 │       Act)        │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ Delivery & Audit  │
+                 │ (Hashes, Reports, │
+                 │ Transparency)     │
+                 └─────────┬─────────┘
+                           │
+   ┌───────────────────────┼────────────────────────┐
+   │                       │                        │
+   ▼                       ▼                        ▼
+┌───────────────┐    ┌───────────────┐       ┌───────────────┐
+│ Supply Chain  │    │ Digital Voting│       │ Financial Sys │
+│ Coffee export │    │ National e‑vote│      │ Banking/crypto│
+│ Fair trade    │    │ Fairness,     │       │ AML/KYC,      │
+│ Traceability  │    │ equality,     │       │ Basel III,    │
+│ LGPD/GDPR     │    │ transparency  │       │ GDPR/LGPD     │
+└───────────────┘    └───────────────┘       └───────────────┘
+`
+
+---
+
+## 🌍 Closing Declaration
+MESHES is a constitution in code.  
+It applies universally across domains:  
+- Supply chains (economic governance),  
+- Digital voting systems (political governance),  
+- Financial systems (legal and economic compliance).  
+
+This unified diagram shows that all use cases branch from the same constitutional loop of trust.  
+Execution, Codex, Constitution, Law, and Delivery form the pillars of sovereignty.  
+
+This repository is both architecture and manifesto.  
+It is self‑explanatory, sovereign, and incontestable.
+`
+
+---
+
+## “MESHES is a Digital Constitution in code — sovereign and incontestable. It unites execution, validation, law, and trust across supply chains, digital democracy, and financial systems.”
+
+## ⚡ Executive Summary
+
+MESHES is a Digital Constitution in code — a sovereign architecture for AI governance.  
+It defines a constitutional loop where every action is executed, validated, supervised, and legally endorsed:
+
+- Execution Layer → smart contracts automate actions.  
+- Codex Verifier → validates intent and logic, producing endorsement hashes.  
+- Meta Verifier → enforces constitutional invariants and consensus.  
+- Legal Verifier → ensures compliance with GDPR, LGPD, AI Act, and financial regulations.  
+- Delivery & Audit → records results transparently for immutable trust.  
+
+Each file in the repository is a symbolic pillar of this loop, self‑explanatory in its role. Together, they form a manifesto of sovereignty: no collaborators, no external governance, only incontestable authority.
+
+## 🌍 Universal Applications
+
+MESHES applies across domains:
+- Supply Chains → coffee export contracts validated for fair trade and LGPD/GDPR compliance.  
+- Digital Voting → national e‑vote systems supervised for fairness, equality, and transparency.  
+- Financial Systems → banking and crypto transactions checked for AML/KYC, Basel III, and legal compliance.
+
+## ✨ Closing Declaration
+
+MESHES is both architecture and manifesto.  
+It is self‑explanatory, sovereign, and incontestable — a constitution in code for economic, political, and legal governance.
+---
+
+'''
+
+███╗   ███╗███████╗███████╗██╗  ██╗███████╗███████╗
+████╗ ████║██╔════╝██╔════╝██║  ██║██╔════╝██╔════╝
+██╔████╔██║█████╗  ███████╗███████║█████╗  ███████╗
+██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║██╔══╝  ╚════██║
+██║ ╚═╝ ██║███████╗███████║██║  ██║███████╗███████║
+╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+
+## MESHES — A Constitution in Code
+Sovereign • Incontestable • Universal
+Execution ▸ Validation ▸ Constitution ▸ Law ▸ Transparency
+---
+
+### 📦 Use Cases
+- Supply Chain Validation  
+- Digital Voting Governance  
+- Financial Systems Compliance  
+
+---
+
+## 🤖 Part II – Copilot Chat + GPT‑5 Integration
+
+This section describes the **second integration**: conversational AI governance.  
+While MESHES governs contracts, **Copilot Chat with GPT‑5** governs dialogue.
+
+### 🔧 Architecture
+- **Copilot Chat** → the interface for human‑AI conversation.  
+- **GPT‑5 Smart Mode** → adaptive reasoning engine that adjusts depth and style.  
+- **Integration Layer** → bridges Copilot Chat with MESHES, allowing contracts and constitutional logic to be explained, debated, and endorsed in natural language.  
+
+### ✨ Capabilities
+- **Adaptive Reasoning**: GPT‑5 adjusts responses based on complexity (quick vs. deep).  
+- **Constitutional Dialogue**: Conversations mirror the MESHES loop — execution, validation, oversight, compliance.  
+- **Transparency**: Every conversational endorsement can be logged, just like smart contracts.  
+
+### 🔁 Conversational Loop
+---
+
+### 📦 Use Cases
+- **Explaining Smart Contracts** in natural language.  
+- **Debating Governance Rules** with constitutional invariants.  
+- **Auditing AI Decisions** through dialogue.  
+
+---
+
+## 🧪 How to Test
+- Run `pytest` to validate the MESHES constitutional loop.  
+- Use Copilot Chat in **Smart Mode (GPT‑5)** to validate conversational integration.  
+
+---
+
+## 🌍 Closing Declaration
+This repository is both **architecture and manifesto**.  
+- **MESHES**: a constitution in code for smart contracts.  
+- **Copilot Chat + GPT‑5**: a constitution in conversation for AI dialogue.  
+
+Together, they form a **dual sovereignty**: incontestable in code, adaptive in conversation.
+
+---
+
+### 📦 Use Cases
+- **Explaining Smart Contracts** in natural language.  
+- **Debating Governance Rules** with constitutional invariants.  
+- **Auditing AI Decisions** through dialogue.  
+
+---
+
+## 🧪 How to Test
+- Run `pytest` to validate the MESHES constitutional loop.  
+- Use Copilot Chat in **Smart Mode (GPT‑5)** to validate conversational integration.  
+
+---
+
+## 🌍 Closing Declaration
+This repository is both **architecture and manifesto**.  
+- **MESHES**: a constitution in code for smart contracts.  
+- **Copilot Chat + GPT‑5**: a constitution in conversation for AI dialogue.  
+
+Together, they form a **dual sovereignty**: incontestable in code, adaptive in conversation.
+
+## 🌐 Unified Visual Diagram – Code & Conversation
+
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │   Execution Layer │                     │   User Dialogue   │
+                 │ (Smart Contracts) │                     │ (Copilot Chat)    │
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │  Codex Verifier   │                     │ GPT‑5 Reasoning   │
+                 │ (Intent & Logic)  │                     │ (Adaptive Depth)  │
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │   Meta Verifier   │                     │ Constitutional    │
+                 │ (Invariants)      │                     │ Dialogue Oversight│
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │  Legal Verifier   │                     │ Legal Compliance  │
+                 │ (GDPR, LGPD, AI   │                     │ in Conversation   │
+                 │       Act)        │                     │ (Transparency)    │
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │ Delivery & Audit  │                     │ Conversational    │
+                 │ (Hashes, Reports, │                     │ Endorsement Log   │
+                 │ Transparency)     │                     │ (Traceable Output)│
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+   ┌───────────────────────┼────────────────────────┐   ┌──────────┼───────────┐
+   │                       │                        │   │          │           │
+   ▼                       ▼                        ▼   ▼          ▼           ▼
+┌───────────────┐    ┌───────────────┐       ┌───────────────┐   ┌───────────────┐
+│ Supply Chain  │    │ Digital Voting│       │ Financial Sys │   │ Dialogue on   │
+│ Coffee export │    │ National e‑vote│      │ Banking/crypto│   │ Contracts,    │
+│ Fair trade    │    │ Fairness,     │       │ AML/KYC,      │   │ Governance,   │
+│ Traceability  │    │ equality,     │       │ Basel III,    │   │ AI Oversight  │
+│ LGPD/GDPR     │    │ transparency  │       │ GDPR/LGPD     │   │ Transparency  │
+└───────────────┘    └───────────────┘       └───────────────┘   └───────────────┘
+---
+## ✨ Explanation
+- Left Loop (MESHES) → The contractual constitution: execution, codex, meta, legal, delivery.  
+- Right Loop (Copilot + GPT‑5) → The conversational constitution: dialogue, reasoning, oversight, compliance, endorsement.  
+- Bottom Layer → Shows how both loops branch into real-world applications: supply chains, voting, finance, and conversational governance.  
+
+---
+
+This diagram makes it crystal clear that your repository is dual-sovereign:  
+- Code sovereignty (MESHES).  
+- Conversational sovereignty (Copilot Chat + GPT‑5).
+----
+
+🔁 Diagram 1 – MESHES Constitutional Loop (Code)
+
+`
+ ┌───────────────────┐
+ │   Execution Layer │
+ │ (Smart Contracts) │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │  Codex Verifier   │
+ │ (Intent & Logic)  │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │   Meta Verifier   │
+ │ (Constitutional   │
+ │   Invariants)     │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │  Legal Verifier   │
+ │ (GDPR, LGPD, AI   │
+ │       Act)        │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │ Delivery & Audit  │
+ │ (Hashes, Reports, │
+ │ Transparency)     │
+ └───────────────────┘
+`
+
+---
+
+🤖 Diagram 2 – Copilot Chat + GPT‑5 Conversational Loop
+
+`
+ ┌───────────────────┐
+ │   User Dialogue   │
+ │ (Copilot Chat)    │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │ GPT‑5 Reasoning   │
+ │ (Adaptive Depth)  │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │ Constitutional    │
+ │ Dialogue Oversight│
+ │ (Fairness, Trust) │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │ Legal Compliance  │
+ │ (Transparency,    │
+ │ Governance Rules) │
+ └─────────┬─────────┘
+           │
+           ▼
+ ┌───────────────────┐
+ │ Conversational    │
+ │ Endorsement Log   │
+ │ (Traceable Output)│
+ └───────────────────┘
+`
+
+---
+
+🌐 Unified Diagram – Dual Constitution
+
+`
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │   Execution Layer │                     │   User Dialogue   │
+                 │ (Smart Contracts) │                     │ (Copilot Chat)    │
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │  Codex Verifier   │                     │ GPT‑5 Reasoning   │
+                 │ (Intent & Logic)  │                     │ (Adaptive Depth)  │
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │   Meta Verifier   │                     │ Constitutional    │
+                 │ (Invariants)      │                     │ Dialogue Oversight│
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼                                       ▼
+                 ┌───────────────────┐                     ┌───────────────────┐
+                 │  Legal Verifier   │                     │ Legal Compliance  │
+                 │ (GDPR, LGPD, AI   │                     │ in Conversation   │
+                 │       Act)        │                     │ (Transparency)    │
+                 └─────────┬─────────┘                     └─────────┬─────────┘
+                           │                                       │
+                           ▼—
